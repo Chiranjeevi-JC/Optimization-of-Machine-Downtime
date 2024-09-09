@@ -4,7 +4,7 @@ Here's the revised `README.md` with the correct business moments and some attrac
 
 # **🚀 Optimization of Machine Downtime**
 
-![Project Logo](Images/img) <!-- Replace with your project logo if you have one -->
+![Project Logo](Images/img.PNG) <!-- Replace with your project logo if you have one -->
 
 ## **📝 Project Description**
 
@@ -18,7 +18,7 @@ The "Optimization of Machine Downtime" project focuses on enhancing the efficien
 
 Understanding the central tendency of your data is crucial. The first step is to calculate the mean, median, and mode.
 
-![Initial Business Moments](Images/img1) <!-- Replace with an actual image of initial moments analysis -->
+![Initial Business Moments](Images/img1.PNG) <!-- Replace with an actual image of initial moments analysis -->
 
 *Figure 1: Initial business moments focusing on mean, median, and mode, giving an overview of data distribution.*
 
@@ -28,7 +28,7 @@ Understanding the central tendency of your data is crucial. The first step is to
 
 Next, we delve into the spread of the data by calculating variance and standard deviation.
 
-![Variance and SD](Images/img2) <!-- Replace with an actual image showing variance and standard deviation calculation -->
+![Variance and SD](Images/img2.PNG) <!-- Replace with an actual image showing variance and standard deviation calculation -->
 
 *Figure 2: Analysis of variance and standard deviation, providing insight into data variability.*
 
@@ -38,7 +38,7 @@ Next, we delve into the spread of the data by calculating variance and standard 
 
 Skewness helps in understanding the asymmetry of the data distribution.
 
-![Skewness](Images/img3) <!-- Replace with an actual image showing skewness calculation -->
+![Skewness](Images/img3.PNG) <!-- Replace with an actual image showing skewness calculation -->
 
 *Figure 3: Skewness calculation to detect any asymmetry in the data.*
 
@@ -48,7 +48,7 @@ Skewness helps in understanding the asymmetry of the data distribution.
 
 Kurtosis indicates the presence of outliers by measuring the "tailedness" of the data distribution.
 
-![Kurtosis](Images/img4) <!-- Replace with an actual image showing kurtosis calculation -->
+![Kurtosis](Images/img4.PNG) <!-- Replace with an actual image showing kurtosis calculation -->
 
 *Figure 4: Kurtosis analysis to understand the extremity of data outliers.*
 
@@ -60,7 +60,7 @@ Kurtosis indicates the presence of outliers by measuring the "tailedness" of the
 
 Outliers can skew results. First, we detect them in the dataset.
 
-![Outlier Detection](Images/img5) <!-- Replace with an actual image showing outlier detection process -->
+![Outlier Detection](Images/img5.PNG) <!-- Replace with an actual image showing outlier detection process -->
 
 *Figure 5: Detection of outliers, to identify potential data issues.*
 
@@ -68,7 +68,7 @@ Outliers can skew results. First, we detect them in the dataset.
 
 Next, we apply median imputation to handle the detected outliers.
 
-![Outlier Handling](Images/img6) <!-- Replace with an actual image showing outlier handling via median imputation -->
+![Outlier Handling](Images/img6.PNG) <!-- Replace with an actual image showing outlier handling via median imputation -->
 
 *Figure 6: Median imputation smooths out the data by addressing outliers.*
 
@@ -76,7 +76,7 @@ Next, we apply median imputation to handle the detected outliers.
 
 Finally, any remaining outliers post-imputation are removed.
 
-![Leftover Outliers](Images/img7) <!-- Replace with an actual image showing removal of leftover outliers -->
+![Leftover Outliers](Images/img7.PNG) <!-- Replace with an actual image showing removal of leftover outliers -->
 
 *Figure 7: Final cleanup of leftover outliers ensures data integrity.*
 
@@ -88,7 +88,7 @@ Finally, any remaining outliers post-imputation are removed.
 
 Identifying missing values across the dataset is the next crucial step.
 
-![Missing Values Detection](Images/img8) <!-- Replace with an actual image showing missing values detection -->
+![Missing Values Detection](Images/img8.PNG) <!-- Replace with an actual image showing missing values detection -->
 
 *Figure 8: Detection of missing values in the dataset.*
 
@@ -96,7 +96,7 @@ Identifying missing values across the dataset is the next crucial step.
 
 We fill the missing values using mean imputation to complete the dataset.
 
-![Missing Values Handling](Images/img9) <!-- Replace with an actual image showing missing values filled with mean imputation -->
+![Missing Values Handling](Images/img9.PNG) <!-- Replace with an actual image showing missing values filled with mean imputation -->
 
 *Figure 9: Mean imputation fills in the missing data, ensuring a complete dataset.*
 
@@ -106,7 +106,7 @@ We fill the missing values using mean imputation to complete the dataset.
 
 To support time-series analysis, we transform the 'Date' column by converting its datatype.
 
-![Data Transformation](Images/img10) <!-- Replace with an actual image showing data transformation process -->
+![Data Transformation](Images/img10.PNG) <!-- Replace with an actual image showing data transformation process -->
 
 *Figure 10: Transformation of the 'Date' column for accurate time-series analysis.*
 
@@ -132,7 +132,7 @@ Recalculate skewness to check for asymmetry post-cleaning.
 
 Analyze kurtosis again to ensure outlier management was successful.
 
-![Final Business Moments](Images/img11) <!-- Replace with an actual image of final moments analysis -->
+![Final Business Moments](Images/img11.PNG) <!-- Replace with an actual image of final moments analysis -->
 
 *Figure 11: Final business moments, providing insights into the cleaned and transformed data.*
 
